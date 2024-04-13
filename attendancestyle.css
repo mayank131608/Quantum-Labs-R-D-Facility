@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #135D66;
+}
+.attd{
+    padding-top: 15vh;
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    margin: auto;
+}
+.box{
+    background-color: #77B0AA ;
+    padding:0 10px;
+    display: flex;
+    width: 30vw;
+    height: 25vh;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    flex-direction: column;
+}
+.box p{
+    font-size: 30px;
+}
+#studentId{
+    margin: 4vh 0 ;
+    width: 80%;
+    height: 15%;
+}
